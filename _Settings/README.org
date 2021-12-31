@@ -2,8 +2,8 @@
 
 This folder contain settings information.
 
-| Date | Setting | Author   |
-|------+---------+----------|
-| 1984 | Luna    | Multiple |
-|      |         |          |
+| Date | Setting      | Comments                                      |
+|------+--------------+-----------------------------------------------|
+| 1984 | Luna         | Multiple authors                              |
+| 1984 | Irilian city | Complete fantasy city (for D&D but adaptable) |
 

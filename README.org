@@ -1,0 +1,28 @@
+* TTRPG Stuff Repository
+
+Welcome everyone in my TTRPG repository where I try to gather interesting stuff about TTRPG.
+
+This repo is the 3rd one of the cycle:
+- [[https://github.com/orey/jdr][github.com/orey/jdr]] : French repo with a lot of TTRPG stuff and translations (in French)
+- [[https://github.com/orey/DandD][github.com/orey/DandD]] : A repo dedicated to D&D, especially very old stuff (0e and 1e).
+
+** What's in this repo?
+
+- [[https://github.com/orey/ttrpg/tree/master/_Articles][Articles]]
+- [[https://github.com/orey/ttrpg/tree/master/_Settings][Settings]]
+
+Various game resources
+- [[https://github.com/orey/ttrpg/tree/master/Alternity][Alternity]] 98
+- [[https://github.com/orey/ttrpg/tree/master/CallOfCthulhu][Call of Cthulhu]]
+- [[https://github.com/orey/ttrpg/tree/master/Chill][Chill]]
+- [[https://github.com/orey/ttrpg/tree/master/CrimeFightersRPG][Crime Fighters RPG]]
+- [[https://github.com/orey/ttrpg/tree/master/FightingFantasy][Fighting Fantasy]]
+- [[https://github.com/orey/ttrpg/tree/master/Runequest][Runequest]]
+- [[https://github.com/orey/ttrpg/tree/master/TopSecret][Top Secret]]
+- [[https://github.com/orey/ttrpg/tree/master/Traveller][Traveller]]
+
+
+[[file:logo-orey.png]]
+
+
+
