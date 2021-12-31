@@ -1,7 +1,8 @@
 * Chill
 
-| Date | Type     | Article   |
-|------+----------+-----------|
-| 1987 | Scenario | Film Noir |
+| Date | Type     | Article                          |
+|------+----------+----------------------------------|
+| 1984 | Review   | Original review of the Chill RPG |
+| 1987 | Scenario | Film Noir                        |
 
 
