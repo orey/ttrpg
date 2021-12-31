@@ -1,0 +1,9 @@
+* Settings
+
+This folder contain settings information.
+
+| Date | Setting | Author   |
+|------+---------+----------|
+| 1984 | Luna    | Multiple |
+|      |         |          |
+

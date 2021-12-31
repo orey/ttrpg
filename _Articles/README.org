@@ -1,0 +1,12 @@
+* Articles about TTRPG
+
+This folder contains old articles about TTRPG, found when exploring the archives.
+
+| Date | Article                                                                        | Author         |
+|------+--------------------------------------------------------------------------------+----------------|
+| 1983 | The solo scenario, one player parties are fun for 2                            | Katharine Kerr |
+| 1984 | The name of the game, beginner's guide to RPG (all 4 parts)                    | Marcus Rowland |
+| 1985 | Balancing act, why rules and role-playing don't mix                            | Mike Lewis     |
+| 1987 | More deadly than the male, female characters in fantasy settings (all 5 parts) | Janet Vialls   |
+
+

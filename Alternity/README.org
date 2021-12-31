@@ -1,0 +1,32 @@
+* Alternity
+
+** Articles
+
+This folder contains archive available material concerning the Alternity 98 TTRPG, abandonned by TSR/WotC.
+
+| Date | Type          | Article                                               | Author                         |
+|------+---------------+-------------------------------------------------------+--------------------------------|
+| 1998 | Resource      | Sufficiently Advanced Magic                           | Stephen Kenson                 |
+| 1999 | Setting       | Alternity in a 50s SciFi setting                      | Marc Scmalz                    |
+| 1999 | Resource      | Converting D&D monsters To Alternity                  | James Wyatt                    |
+| 1999 | Setting       | Darl Matter fast play game                            | Richard Baker & Bill Slavicsek |
+| 1999 | Resource      | Horror and the supernatural in Alternity              | James Wyatt                    |
+| 1999 | Resource      | Starship Perks and Flaws (for Star*Drive)             | Eckelberry & Collins           |
+| 1999 | Setting       | The Twilight Jungle, world of the Sesheyans           | Stephen Kenson                 |
+| 1999 | Solo scenario | The voice (for Dark Matter)                           | Stephen Kenson                 |
+| 1999 | Setting       | Ares, the world is 1969                               | Stephen Kenson                 |
+| 1999 | Resources     | Vampires In Alternity                                 | Sean Reynolds                  |
+| 1999 | Setting       | World of the Weren                                    | Baur and Peterson              |
+| 1999 | Setting       | World of the Tsa                                      | Stephen Kenson                 |
+| 1999 | Resource      | Zero Point Players, heroes and villains in Star*Drive | Richard Baker                  |
+| 2000 | Resource      | Eyes in the sky, satellites for Dark Matter           | Wolfgang Baur                  |
+| 2000 | Resource      | FX artifacts                                          | Reynolds and Collins           |
+| 2000 | Setting       | Top Secret in Alternity                               | James Wyatt                    |
+| 2000 | Setting       | Traveller in Alternity                                | Stephen Kenson                 |
+| 2000 | Resource      | Urban legends, adventure hooks for Dark Matter        | JD Wiker                       |
+
+** List
+
+[[file:Dragon-Alternity.png]]
+
+

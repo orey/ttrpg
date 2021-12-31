@@ -1,0 +1,61 @@
+#+TITLE: Aides de jeu Appel de Cthulhu
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-10-03
+#+STARTUP: content
+
+* In English
+
+A set of interesting old stuff about Call of Cthulhu, all exhumed from the [[https://archive.org][archive.org]] fantastic website.
+
+| File                              | Type     | Comment                                                       |
+|-----------------------------------+----------+---------------------------------------------------------------|
+| [[1982-CoCIsAChallenge-Cook.pdf][1982-CoCIsAChallenge-Cook.pdf]]     | Article  | Critics of CoC in The Dragon in May 1982 by David Cook        |
+| [[1983-TheWatchersOfWalberswick.pdf][1983-TheWatchersOfWalberswick.pdf]] | Scenario | From White Dwarf 50 (1984)                                    |
+| [[1985-HistoryOfCoC-Petersen.pdf][1985-HistoryOfCoC-Petersen.pdf]]    | Article  | The story of the CoC RPG by Sandy Petersen in Dagon 11 (1985) |
+| [[1985-TwoOfOurBodiesAreMissing.pdf][1985-TwoOfOurBodiesAreMissing.pdf]] | Scenario | From Dagon 11 (1985)                                          |
+| [[1986-CultsOfCthulhu.pdf][1986-CultsOfCthulhu.pdf]]           | Article  | From White Dwarf (1986)                                       |
+| [[1986-WeeDramOfDanger.pdf][1986-WeeDramOfDanger.pdf]]          | Scenario | 1986                                                          |
+| [[1986-Whitefire.pdf][1986-Whitefire.pdf]]                | Scenario | 1986                                                          |
+| [[1987-LumleyMythosMaster.pdf]]       | Article  | 1987 list of Brian Lumley's writings                          |
+| [[1987-TheLakeOfMist.pdf][1987-TheLakeOfMist.pdf]]            | Scenario | 1987                                                          |
+| [[1989-CoC-Tournaments.pdf][1989-CoC-Tournaments.pdf]]          | Article  | From Dagon 25, an article about CoC tournaments               |
+
+
+* En français - In French
+
+Deux aides de jeux de feu le =Descartes, le supplément= m'ont bien aidé dans les parties de Cthulhu menées au travers de ces années :
+- La fiche de temps,
+- L'écran complémentaire
+
+** Fiche de temps
+
+[[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][La fiche de temps]]
+
+La fiche de temps, comme son nom l'indique permet de suivre le temps de jeu de manière simple, ce qui est utile dans les scénarios. A noter que l'on trouve aujourd'hui de très nombreuses aides de jeu de ce type alors qu'à l'époque, ce type de matériel était soit home-made, soit difficile à trouver.
+
+** Ecran complémentaire du MJ
+
+[[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire]]
+
+L'écran se compose de deux pages :
+- Une page avec sorts, les phobies et quelques autres informations,
+- Une page avec des animaux et des PNJ moyens.
+
+Moins utile que la fiche de temps, ces deux pages peuvent être très pratiques.
+
+** Ressources en ligne pour Call of Cthulhu/Appel de Cthulhu
+
+Cette section s'enrichira progressivement.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Site               | Langue | Contenu                               | Commentaire              |
+|--------------------+--------+---------------------------------------+--------------------------|
+| [[https://thealexandrian.net/wordpress/39221/roleplaying-games/call-of-cthulhu-5th-edition-revised-system-cheat-sheet][CoC 5e Cheat sheet]] | EN     | Une synthèse PDF des règles de CoC 5e | Beau travail, pour écran |
+|                    |        |                                       |                          |
+
+
+
+
+
+
+
