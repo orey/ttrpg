@@ -16,11 +16,11 @@
 #+ATTR_LATEX: :width 4cm
 [[file:logo-orey.png]]
 
-The various folders contain TTRPG resources sorted by game (see also the [[file:TabletopRoleplayingResources-ORey.pdf][PDF version of this page]]).
+The various folders of this repo contain TTRPG resources sorted by game (see also the [[file:TabletopRoleplayingResources-ORey.pdf][PDF version of this page]]).
 
-This repo is the 3rd one of a cycle:
-- [[https://github.com/orey/jdr][github.com/orey/jdr]] : French repo with a lot of TTRPG stuff and translations (in French)
-- [[https://github.com/orey/DandD][github.com/orey/DandD]] : A repo dedicated to D&D, especially very old stuff (0e and 1e).
+This repo is the 3rd one of a cycle of 3. Here are the 2 others:
+- [[https://github.com/orey/jdr][github.com/orey/jdr]] : A repo in French with a lot of TTRPG stuff and translations (in French)
+- [[https://github.com/orey/DandD][github.com/orey/DandD]] : A repo dedicated to D&D, especially very old stuff (0e and 1e)
 
 #+BEGIN_EXPORT latex
 \newpage
