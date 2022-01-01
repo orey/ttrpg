@@ -75,6 +75,7 @@ Various game resources
 | [[https://bladesinthedark.com/][bladesinthedark.com/]]                 | Blades in the Dark                                                                     | Blades in the Dark |
 | [[https://github.com/brunobord/micro-rpg-catalog][brunobord/micro-rpg-catalog]]          | Micro-RPG catalog by Bruno Bord                                                        | Multi              |
 | *C*                                  |                                                                                        |                    |
+| [[https://www.chaosium.com/blog/][chaosium.com/blog/]]                   | The Chaosium blog on the Chaosium website                                              | Multi              |
 | [[http://www.critical-hits.com/][critital-hits.com]]                    | Critical Hits Studio                                                                 . | Multi              |
 | *D*                                  |                                                                                        |                    |
 | [[https://www.darkshire.net/jhkim/rpg/encyclopedia/][darkshire/rpg/encyclopedia]]           | An encyclopedia of RPG                                                                 | Multi              |
