@@ -1,13 +1,17 @@
 * Traveller
 
-Some materials for the Traveller SciFi game
+Some scenarios for the Traveller SciFi game
 - Canard
 - The Sable Rose affair
 - Sky Rig
 - Alien Werewolfs in London
 - Big Trouble
 
-
+And some articles
+- Star system generator
+- Traveller variants
+- Interview of Marc Miller
+- Introduction to traveller
 
 
 
