@@ -86,6 +86,7 @@ Various game resources
 | [[https://www.enworld.org/threads/the-10-most-anticipated-tabletop-rpgs-of-2021.677397/][enworld.org]]                          | The most anticipated RPG in 2021                                                       | Multi              |
 | *F*                                  |                                                                                        |                    |
 | [[https://www.evilhat.com/home/fate-core-downloads/][evilhat.com/fate-core-downloads/]]     | Fate                                                                                   | Fate               |
+| [[https://fightingfantasy.fandom.com/wiki/Game_System][fightingfantasy.fandom.com]]           | Fighting Fantasy Game System                                                           | Fighting Fantasy   |
 | [[https://fudgerpg.com/goodies/fudge-files.html][fudgerpg.com]]                         | Fudge                                                                                  | Fudge              |
 | *G*                                  |                                                                                        |                    |
 | [[https://gatewayrpg.wordpress.com][gatewayrpg.wordpress.com]]             | Gateway RPG                                                                            | Gateway            |
