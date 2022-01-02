@@ -115,13 +115,15 @@ Various game resources
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align ll
-| *Site*                  | *Content*                                          |
-| [[https://archive.org/details/DragonMagazine045_201903][archive.org]]             | The Dragon, issues 1-50                            |
-| [[https://archive.org/details/DragonMagazine200_201903/dragon%2520151-200/Dragon%2520Magazine%2520%2523151/page/n0/mode/2up][archive.org]]             | The Dragon, issues 151-200                         |
-| [[https://archive.org/details/DragonMagazine200_201903/dragon%2520151-200/Dragon%2520Magazine%2520%2523151/page/n0/mode/2up][archive.org]]             | The Dragon, issues 251-300                         |
-| [[https://archive.org/details/DragonMagazine260_201801/Dragon%2520Magazine%2520430/mode/2up][archive.org]]             | The Dragon, issues 1-430 + special numbers         |
-| [[https://archive.org/details/Polyhedron105][archive.org]]             | The whole collection of TSR RPGA/Polyhedron        |
-| [[http://www.fightingfantazine.co.uk/page/][fightingfantazine.co.uk]] | Fighting fantasy zine with lots of solo adventures |
+| *Content*                                          | *Site*                  |
+| Cepheus Journal                                    | [[https://cepheusjournal.com/][cepheusjournal.com]]      |
+| The Dragon, issues 1-50                            | [[https://archive.org/details/DragonMagazine045_201903][archive.org]]             |
+| The Dragon, issues 151-200                         | [[https://archive.org/details/DragonMagazine200_201903/dragon%2520151-200/Dragon%2520Magazine%2520%2523151/page/n0/mode/2up][archive.org]]             |
+| The Dragon, issues 251-300                         | [[https://archive.org/details/DragonMagazine200_201903/dragon%2520151-200/Dragon%2520Magazine%2520%2523151/page/n0/mode/2up][archive.org]]             |
+| The Dragon, issues 1-430 + special numbers         | [[https://archive.org/details/DragonMagazine260_201801/Dragon%2520Magazine%2520430/mode/2up][archive.org]]             |
+| The whole collection of TSR RPGA/Polyhedron        | [[https://archive.org/details/Polyhedron105][archive.org]]             |
+| Fighting fantasy zine with lots of solo adventures | [[http://www.fightingfantazine.co.uk/page/][fightingfantazine.co.uk]] |
+| Frontier Explorer                                  | [[https://frontierexplorer.org/][frontierexplorer.org/]]   |
 
 ** SRD - System Reference Documents
 
