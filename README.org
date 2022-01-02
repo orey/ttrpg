@@ -399,14 +399,15 @@ Various game resources
 | *V*                                                                    |                                                                                                    |     |
 | https://vorpalmace.blogspot.com                                        | Module and system reviews.                                                                         | y   |
 | *W*                                                                    |                                                                                                    |     |
-| https://worldoffightingfantasy.blogspot.com                            | The world of Fighting Fantasy                                                                      | N   |
 | https://wanderinggamist.blogspot.com                                   |                                                                                                    | y   |
 | https://wayspell.blogspot.com                                          |                                                                                                    | y   |
 | https://welshpiper.com/                                                |                                                                                                    | y   |
 | https://whatwouldconando.blogspot.com                                  | Troika, The Undercroft, Fever Swamp                                                                | y   |
 | https://wheel-of-samsara.blogspot.com                                  |                                                                                                    | y   |
+| http://whitehall-paraindustries.blogspot.com/                          | Whitehall Paraindustries - Blog about game design and age of heroes                                |     |
 | https://www.wizardthieffighter.com                                     |                                                                                                    | y   |
 | https://wizzzargh.blogspot.com                                         |                                                                                                    | y   |
+| https://worldoffightingfantasy.blogspot.com                            | The world of Fighting Fantasy                                                                      | N   |
 | *Y*                                                                    |                                                                                                    |     |
 | https://ynasmidgard.blogspot.com                                       | Play Reports, Astonishing Swordsmen & Sorcerers of Hyperborea content.                             | y   |
 | *Z*                                                                    |                                                                                                    |     |
@@ -517,7 +518,13 @@ Links :
 - https://refereeingandreflection.wordpress.com/2014/12/22/remembering-the-forge/
 - [[http://big-model.info/][The big model]] of the Forge
 - [[http://www.indie-rpgs.com/forge/index.php][The Forge]] forum
-- 2007: Gamer segmentation seen by WotC 
+- 2007: [[https://github.com/orey/ttrpg/blob/master/_Articles/2007-RSDanceyOnTheWeb-GamerSegmentation.org][Gamer segmentation seen by WotC]]
+- 2018: https://cannibalhalflinggaming.com/2018/05/16/level-one-wonk-does-rpg-theory-gns/
+- 2020: https://twitter.com/lackingceremony/status/1280323910022488064?lang=en
+- 2020: https://cannibalhalflinggaming.com/2020/11/25/the-trouble-with-discourse/
+- 2021: https://www.reddit.com/r/HobbyDrama/comments/ppmt00/tabletop_rpgs_the_fall_of_the_forge_how_a/
+
+ 
   
 
 
