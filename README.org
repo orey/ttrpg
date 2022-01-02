@@ -51,11 +51,19 @@ Various game resources
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align llc
 | *Site*                  | *Title*                                        | *Games*       |
+| *A*                     |                                                |               |
 | [[https://forum.autarch.co/][autarch.co]]              | Forum about the Autarch games                  | Multi         |
+| *B*                     |                                                |               |
 | [[https://www.basicfantasy.org/forums][basicfantasy.org/forums]] | Basic Fantasy RPG forums                       | Basic Fantasy |
+| *D*                     |                                                |               |
 | [[https://www.dragonsfoot.org/forums][dragonsfoot.org/forums]]  | Dragonsfoot forums - AD&D 1e                   | AD&D 1e       |
-| [[https://odd74.proboards.com][odd74.proboards.com]]     | OD&D discussion                                | OD&D          |
+| *F*                     |                                                |               |
+| [[http://www.indie-rpgs.com/forge/index.php][indie-rpgs.com/forge/]]   | The Forge                                      | Multi         |
+| *K*                     |                                                |               |
 | [[https://www.knights-n-knaves.com/phpbb3/][knights-n-knaves.com]]    | Osric RPG forums                               | Osric         |
+| *O*                     |                                                |               |
+| [[https://odd74.proboards.com][odd74.proboards.com]]     | OD&D discussion                                | OD&D          |
+| *R*                     |                                                |               |
 | [[https://www.reddit.com/r/rpg/][reddit/r/rpg]]            | Tabletop RPG forum                             | Multi         |
 | [[https://www.rpg.net][rpg.net]]                 | RPG.net, one of the biggest online TTRPG forum | Multi         |
 
@@ -472,5 +480,46 @@ https://www.drivethrurpg.com
 |------+---------------------------------------------------+-----------------------------------------------------------------------------|
 | 2008 | The 3-clue rule to design investigative scenarios | https://thealexandrian.net/wordpress/1118/roleplaying-games/three-Clue-Rule |
 | 2008 | A quick primer for old school gaming              | https://www.lulu.com/content/3019374?page=1&pageSize=4                      |
+
+** The Forge
+
+Links :
+- 1997: [[https://en.wikipedia.org/wiki/Threefold_model][Threefold model]]
+- 1999-2005: [[https://en.wikipedia.org/wiki/GNS_theory][GNS Theory]]
+  - Ron Edwards about the GNS theory
+    - 2001: [[http://www.indie-rpgs.com/articles/1/][GNS and other matters of GNS theory]]
+    - 2001: [[http://www.indie-rpgs.com/articles/2/][Chapter 1: Exploration]]
+    - 2001: [[http://www.indie-rpgs.com/articles/3/][Chapter 2: GNS]]
+    - 2001: [[http://www.indie-rpgs.com/articles/4/][Chapter 3: Stance]]
+    - 2001: [[http://www.indie-rpgs.com/articles/5/][Chapter 4: The basics of roleplaying design]]
+    - 2001: [[http://www.indie-rpgs.com/articles/6/][Chapter 5: Roleplaying design and coherence]]
+    - 2001: [[http://www.indie-rpgs.com/articles/7/][Chapter 6: Actually playing]]
+    - 2001: [[http://www.indie-rpgs.com/articles/8/][Acknowledgements]]
+    - 2003: [[http://www.indie-rpgs.com/articles/15/][Simulation, the right to dream]]
+    - 2003: [[http://www.indie-rpgs.com/articles/21/][Gamism: Step On Up]]
+    - [[http://www.indie-rpgs.com/articles/][All articles]]
+    - 2004: [[http://www.indie-rpgs.com/_articles/system_does_matter.html][System does matter]]
+- Criticism by Brian Gleichman (2006)
+  - http://whitehall-paraindustries.com/Theory/Threefold/GNS.htm
+- Criticism by Brian Gleichman (2009)
+  - http://whitehall-paraindustries.blogspot.com/2009/01/elements-layers-of-design.html
+  - http://whitehall-paraindustries.blogspot.com/2009/01/why-rpg-theory-has-bad-rep-part-i.html
+  - http://whitehall-paraindustries.blogspot.com/2009/01/why-rpg-theory-has-bad-rep-part-ii-gns.html
+  - http://whitehall-paraindustries.blogspot.com/2009/02/why-rpg-theory-has-bad-rep-part-iii.html
+  - http://whitehall-paraindustries.blogspot.com/2009/02/why-rpg-theory-has-bad-rep-part-iv.html
+  - http://whitehall-paraindustries.blogspot.com/2009/02/why-rpg-theory-has-bad-rep-part-v.html
+  - http://whitehall-paraindustries.blogspot.com/2009/09/flaws-of-gns-part-i-appeal.html
+  - http://whitehall-paraindustries.blogspot.com/2009/09/flaws-of-gns-part-ii-devil-in-details.html
+  - http://whitehall-paraindustries.blogspot.com/2009/09/flaws-of-gns-part-iii-plan-meets-need.html
+  - http://whitehall-paraindustries.blogspot.com/2009/09/flaws-of-gns-part-iv-conflict-with.html
+  - http://whitehall-paraindustries.blogspot.com/2009/09/flaws-of-gns-part-v-big-model.html
+  - http://whitehall-paraindustries.blogspot.com/2009/09/flaws-of-gns-part-vi-conclusion.html
+- https://refereeingandreflection.wordpress.com/2014/12/22/remembering-the-forge/
+- [[http://big-model.info/][The big model]] of the Forge
+- [[http://www.indie-rpgs.com/forge/index.php][The Forge]] forum
+- 2007: Gamer segmentation seen by WotC 
+  
+
+
 
 
