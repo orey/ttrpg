@@ -124,6 +124,7 @@ Various game resources
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align ll
 | *Content*                                          | *Site*                  |
+| Postal Diplomacy Zine archive                      | [[http://whiningkentpigs.com/DW/kent/diplomacyzinearchive.htm][whiningkentpigs.com]]     |
 | Cepheus Journal                                    | [[https://cepheusjournal.com/][cepheusjournal.com]]      |
 | The Dragon, issues 1-50                            | [[https://archive.org/details/DragonMagazine045_201903][archive.org]]             |
 | The Dragon, issues 151-200                         | [[https://archive.org/details/DragonMagazine200_201903/dragon%2520151-200/Dragon%2520Magazine%2520%2523151/page/n0/mode/2up][archive.org]]             |
