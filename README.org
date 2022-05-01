@@ -435,27 +435,27 @@ Various game resources
 ** Tools
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-#+ATTR_LATEX: :environment longtable :align p{6cm}p{8cm}
-| *Tool*                                       | *Site*                                                                   |
-| *Online dice*                                |                                                                          |
-| Online WotC dice rolls                       | https://www.wizards.com/dnd/dice/dice.htm                                |
-| *Numbers*                                    |                                                                          |
-| D20 Random Dungeon Generator and other tools | http://donjon.bin.sh/d20/dungeon                                         |
-| *A*                                          |                                                                          |
-| All dice statistics                          | https://anydice.com/                                                     |
-| *B*                                          |                                                                          |
-| Bookshelf-Based Random Adventure Generator   | [[http://2ndage.blogspot.com/2012/12/bookshelf-based-random-adventure.html][http://2ndage.blogspot.com/]]                                              |
-| *F*                                          |                                                                          |
-| Fantasy name generator                       | [[https://critical-hits.com/ch-presents/fantasy-name-generator/][https://critical-hits.com/]]                                               |
-| *G*                                          |                                                                          |
-| Great site on probabilities                  | https://anydice.com                                                      |
-| *P*                                          |                                                                          |
-| Purple Sorcerer, tools for DCC               | https://purplesorcerer.com/                                              |
-| *R*                                          |                                                                          |
-| Method for random scenario generation        | http://2ndage.blogspot.com/2012/12/bookshelf-based-random-adventure.html |
-| (In French)                                  | http://loukoum.online.fr/jdr/adj/gianni1.htm                             |
-| *W*                                          |                                                                          |
-| Worldographer                                | https://worldographer.com                                                |
+#+ATTR_LATEX: :environment longtable :align p{8cm}p{6cm}
+| *Site*                                                                   | *Tool*                                       |
+|                                                                          | *Online dice*                                |
+| https://www.wizards.com/dnd/dice/dice.htm                                | Online WotC dice rolls                       |
+|                                                                          | *Numbers*                                    |
+| http://donjon.bin.sh/d20/dungeon                                         | D20 Random Dungeon Generator and other tools |
+|                                                                          | *A*                                          |
+| https://anydice.com/                                                     | All dice statistics                          |
+|                                                                          | *B*                                          |
+| [[http://2ndage.blogspot.com/2012/12/bookshelf-based-random-adventure.html][http://2ndage.blogspot.com/]]                                              | Bookshelf-Based Random Adventure Generator   |
+|                                                                          | *F*                                          |
+| [[https://critical-hits.com/ch-presents/fantasy-name-generator/][https://critical-hits.com/]]                                               | Fantasy name generator                       |
+|                                                                          | *G*                                          |
+| https://www.gozzys.com/                                                  | Map generator                                |
+|                                                                          | *P*                                          |
+| https://purplesorcerer.com/                                              | Purple Sorcerer, tools for DCC               |
+|                                                                          | *R*                                          |
+| http://2ndage.blogspot.com/2012/12/bookshelf-based-random-adventure.html | Method for random scenario generation        |
+| http://loukoum.online.fr/jdr/adj/gianni1.htm                             | (In French)                                  |
+|                                                                          | *W*                                          |
+| https://worldographer.com                                                | Worldographer                                |
 
 ** Podcasts and videos
 
